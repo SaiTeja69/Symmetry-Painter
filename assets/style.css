@@ -31,14 +31,14 @@ canvas {
 }
 
 .helper-button {
-    height: 36px;
+    height: 360px;
     font-family: monospace;
     font-weight: 900;
     font-size: 20px;
     color:#2c3e50;
     border: 0px;
     border-radius: 5px;
-    width: 36px;
+    width: 360px;
 }
 
 #symmetry{
